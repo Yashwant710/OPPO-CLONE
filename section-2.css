@@ -1,0 +1,94 @@
+body {
+  margin: 0;
+  padding: 0;
+  padding-top: 3.125rem;
+
+}
+
+
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+
+}
+
+.sec2 {
+  font-weight: 400;
+  font-size: 2.1rem;
+}
+
+.sec2-head {
+  line-height: 2rem;
+
+}
+
+.sec2-text {
+  font-size: 0.9rem;
+
+}
+
+.section-2 {
+  margin-top: 5%;
+
+}
+
+.card-title {
+  font-size: 16px;
+}
+
+/* .colm1{
+  margin-left: 90px;
+} */
+.card-text {
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.btn {
+  border-radius: 0;
+  font-size: 0.8rem;
+}
+
+.sec3 {
+  font-weight: 400;
+  margin-top: 10%;
+}
+
+.section-4 {
+  padding-bottom: 50px;
+}
+
+.sech5 {
+  margin-top: 4.2rem;
+  font-weight: 400;
+}
+
+footer {
+  padding-top: 4.6rem;
+
+}
+
+.header-body {
+  font-size: 0.8rem;
+  line-height: 1.5rem;
+}
+
+.carousel-item {
+  position: relative;
+}
+
+.carousel-img {
+  object-fit: cover;
+
+
+}
+
+.carousel-text {
+  z-index: 5;
+  position: absolute;
+  top: 40.8%;
+  left: 14%;
+  ;
+}

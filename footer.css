@@ -1,0 +1,25 @@
+.foot-head {
+  font-size: 1.1rem;
+}
+
+.foot-subhead {
+  font-size: 0.8rem;
+  margin-top: 1rem;
+}
+
+footer {
+  padding: 0;
+  padding-bottom: 40px;
+  padding-top: 2rem;
+  color: white;
+  background-color: black;
+  opacity: 0.89;
+}
+
+.email {
+  padding: 4.5rem;
+}
+
+.social {
+  padding-left: 4.5rem;
+}

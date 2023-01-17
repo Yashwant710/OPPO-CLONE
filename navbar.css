@@ -1,0 +1,96 @@
+.logo-img {
+  width: 82px;
+
+
+
+}
+
+.logo-link {
+  width: 8.5%;
+}
+
+.navbar {
+  height: 50px;
+
+}
+
+@media screen and (max-width:993px) {
+  #navbarSupportedContent {
+    background-color: white;
+  }
+
+  #navtrans {
+    background-color: white;
+    padding: 0px;
+    margin-left: 0rem;
+    margin-right: 0rem;
+  }
+
+  .navbar {
+    background-color: white;
+  }
+
+  .nav-item {
+    margin-left: 1.125rem;
+  }
+
+  #togico {
+    margin-right: 1rem;
+  }
+
+  .logo-img {
+    margin-left: 2rem;
+  }
+}
+
+@media screen and (max-width:518px) {
+  .sec2-head {
+    flex-direction: column;
+  }
+}
+
+@media screen and (max-width:371px) {
+  .sec2 {
+    font-size: 0.1rem;
+  }
+}
+
+@media screen and (max-width:330px) {
+  .sec2-text {
+    text-align: start;
+  }
+}
+
+.nav-link {
+  font-size: 15px;
+
+}
+
+.search {
+  padding-left: 3px;
+  font-size: 0.8rem;
+  font-weight: 500;
+
+}
+
+.search:focus {
+  box-shadow: none;
+}
+
+input {
+  outline: none;
+}
+
+.right-sec {
+  background-color: #e4e1e1;
+  opacity: 0.4;
+  width: 17%;
+  padding-left: 0.9%;
+  border-radius: 20px;
+
+}
+
+body {
+
+  font-family: 'Roboto', Arial;
+}
